@@ -1,0 +1,18 @@
+{
+    "consumer_key": "hJnRyQV8DXZcTK2SJzDyaDdAh",
+    "consumer_secret": "QSbBcW55vICgI0DlH4EWXQhH94phTWPW4eLbgC9r4qs5OJkLPu",
+
+    "access_token": "973853450747437056-KbiGoLxp8qURJyJxQCwTl5gyjp25ZTS", 
+    "access_token_secret": "OiZXr2w2O0GXT8m2IjwQpGZ1LX9YbYLdh4GwtckhGyOFu",
+
+    "request_interval": 3,
+    "request_window": 900,
+
+    "terms": [
+        "Bonjour",
+	"#bonjour",
+	"#Bonjour"
+    ],
+    "tweets_count": 100
+}
+
