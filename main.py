@@ -2,10 +2,13 @@
 # -*- coding:Utf-8 -*-
 
 """Simple Twitter Bot."""
+========================
+All credits to @Creased_
+========================
 
 #==========================================================#
 # [+] Title:   Twitter bot                                 #
-# [+] Author:  Baptiste M. (Creased)                       #
+# [+] Author:  Baptiste M. (Creased) (not me)              #
 # [+] Website: bmoine.fr                                   #
 # [+] Email:   contact@bmoine.fr                           #
 # [+] Twitter: @Creased_                                   #
